@@ -79,7 +79,7 @@ justify-content -> alinhamento horizontal, em linha */
 }
 
 .profile-photo img {
-        height: 6rem;
+        height: 7rem;
 }
 
 .instagram-login{
@@ -156,6 +156,10 @@ justify-content -> alinhamento horizontal, em linha */
             width: 100%;
         }
 
+        .profile-photo img {
+            height: 7rem;
+        }
+        
         .group{
             border: 1px solid transparent;
         }
